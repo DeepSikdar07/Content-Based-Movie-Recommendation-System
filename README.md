@@ -1,8 +1,8 @@
 # Content-Based-Movie-Recommendation-System
 # Objective -
 The objective is to create recommendations of the movies based on the content of the movies .
-Based on the similarity scores, the recommender system would be able to identify the top 10 movies having the highest cosine similarity scores and present them as the top 10 recommendations.
-# You have To Enter any Movie Name the this System will recmmend 10 movies for you !!!
+Based on the similarity scores, the recommender system would be able to identify the top 30 movies having the highest cosine similarity scores and present them as the top 10 recommendations.
+# You have To Enter any Movie Name the this System will recmmend 30 movies for you !!!
 # Similarity Score :
 How does it decide which item is most similar to the item user likes? Here come the similarity scores.
 
@@ -13,3 +13,6 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 ![image](https://github.com/DeepSikdar07/Content-Based-Movie-Recommendation-System/assets/113364701/33590893-b853-43dd-a874-429b295c2e38)
 
 More about Cosine Similarity : https://www.machinelearningplus.com/nlp/cosine-similarity/
+
+
+Here The Final Screenshoot 
